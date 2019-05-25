@@ -2,6 +2,6 @@ package car
 
 import "fmt"
 
-func openDoor() {
+func OpenDoor() {
 	fmt.Println("Opening door")
 }
